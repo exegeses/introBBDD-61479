@@ -11,7 +11,7 @@
 ## Creación de tablas
 > El comando para crear una tabla es el comando  
  
-    CREATE table nombreTabla
+    CREATE TABLE nombreTabla
     (
         nCampo1 tipoDato características,
         nCampo2 tipoDato características,
