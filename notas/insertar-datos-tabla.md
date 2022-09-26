@@ -8,3 +8,10 @@
         VALUES
             ( vCampo1, vCampo2, vCampo3, ... )  
 
+
+> Sintáxis alternativa
+
+    INSERT INTO nombreTabla
+            VALUES
+            ( vCampo1, vCampo2, vCampo3, ... )
+
